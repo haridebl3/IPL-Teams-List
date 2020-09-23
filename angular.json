@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IPL-Teams-List"
+    }
+  },
+  "defaultProject": "IPL-Teams-List",
+  "cli": {
+    "analytics": "363dfb3a-773a-4e92-bbe9-588d8e09ae3d"
+  }
 }
